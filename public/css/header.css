@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(211, 210, 210);
+}
+
+.card-body.delete{
+    background-color: rgb(243, 206, 206);
+}
+
